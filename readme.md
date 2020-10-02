@@ -27,7 +27,7 @@ This is the format that is stored in the Bitcoin Wallet.
 
 For example a sample private key is generated from:
 
-seed phrase:   alfanumerico
+seed phrase:   alphanumerico
 
 Privatekey:  
 
@@ -37,8 +37,8 @@ We then convert this into WiF format (Base-58):
 
 5HrrzGnmMMr6fwkftrtL6AEfkkwWfgFQ8a2Lh8tAtF3MkXF9bPD
 
-This can be stored in a Bitcoin wallet. Next we can take then private key and a 
-hash value, and covert it into a useable Bitcoin address, such as:
+This can be stored in a Bitcoin wallet. Next, we can take then private key and a 
+hash value, and convert it into a useable Bitcoin address, such as:
 
 19JsLFDRxuTsAjapE79FgoVNdNdB2hNU5M
 
@@ -77,7 +77,7 @@ Wallet is saved in Wallet.docx
 Wallet: 
 
 
-seed phrase:  alfanumerico
+seed phrase:  alphanumerico
 
 Address:    19JsLFDRxuTsAjapE79FgoVNdNdB2hNU5M
 
